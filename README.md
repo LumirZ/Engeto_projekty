@@ -1,1 +1,1 @@
-Zcela přepracovaný rojekt. Přidány i funkce nad rámec zadání.
+Zcela přepracovaný projekt - lepší čitelnost kódu, odstranění chyb. Přidány i funkce nad rámec zadání.
